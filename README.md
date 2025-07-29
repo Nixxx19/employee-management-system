@@ -1,11 +1,8 @@
-### Employee Management System
+## Employee Management System
 
-this project is built with:
+#### Tech Stack used:
 
-- vite
-- SQL
-- typeScript
-- react
-- shadcn-ui
-- tailwind CSS
-- supabase
+- Frontend: React + Vite + TypeScript + Tailwind CSS
+- Backend: Supabase (provides authentication, database, and APIs)
+- Database: PostgreSQL (managed by Supabase)
+- Query language: SQL (underlying language used by PostgreSQL)
