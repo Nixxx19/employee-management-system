@@ -1,4 +1,4 @@
-### employee-management-system
+### Employee Management System
 
 this project is built with:
 
